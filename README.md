@@ -32,15 +32,16 @@ patient_id	age	cholesterol	weight
 
 ### MY_ANSWER
 ---
-``` SELECT * 
+```
+  SELECT * 
   FROM patients 
   WHERE AGE > 50
   AND CHOLESTEROL >= 240
   AND WEIGHT >= 200
   ORDER BY CHOLESTEROL DESC
-  ;
+  ;```
 
 
 ### DATA_SOURCE: ANALYST BUILDER
 ---
-Do click to AlextheAnalyst on youtube
+Do check for AlextheAnalyst on youtube
