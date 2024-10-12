@@ -32,14 +32,15 @@ patient_id	age	cholesterol	weight
 
 ### MY_ANSWER
 ---
+```SQL
+ SELECT * 
+ FROM patients 
+ WHERE AGE > 50
+ AND CHOLESTEROL >= 240
+ AND WEIGHT >= 200
+ ORDER BY CHOLESTEROL DESC
+ ;
 ```
-  SELECT * 
-  FROM patients 
-  WHERE AGE > 50
-  AND CHOLESTEROL >= 240
-  AND WEIGHT >= 200
-  ORDER BY CHOLESTEROL DESC
-  ;```
 
 
 ### DATA_SOURCE: ANALYST BUILDER
