@@ -1,6 +1,12 @@
 # MySQL_Project 1
 ---
 
+[QUESTION](#question)
+
+[MY ANSWER](#my-answer)
+
+[DATA SOURCE](#data-source)
+
  ### QUESTION
 ---
 Dr. Obrien has seen an uptick in heart attacks for his patients over the past few months. He has been noticing some trends across his patients and wants to get ahead of things by reaching out to current patients who are at a high risk of a heart attack.
@@ -30,7 +36,7 @@ patient_id	age	cholesterol	weight
 1014	72	365	170
 1015	82	282	269
 
-### MY_ANSWER
+### MY ANSWER
 ---
 ```SQL
  SELECT * 
@@ -43,6 +49,8 @@ patient_id	age	cholesterol	weight
 ```
 
 
-### DATA_SOURCE: ANALYST BUILDER
+### DATA SOURCE
 ---
-Do check for[AlextheAnalyst](https://github.com/alextheanalyst) on youtube
+Analyst builder
+
+Do check for [AlextheAnalyst](https://github.com/alextheanalyst) on youtube
